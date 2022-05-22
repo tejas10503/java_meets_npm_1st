@@ -1,9 +1,9 @@
-## Connecting java with npm 1st time
+## Connecting java with npm for the 1st time
 
 # What it does
   This is the basic project of npm package which will simply print my name in the console without any dependencies.
 
-# resources to used to create this project
+# Resources used to create this project
    - javaScript
    - JSON
    - node.js
