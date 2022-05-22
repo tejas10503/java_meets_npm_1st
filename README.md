@@ -25,4 +25,4 @@ const name = require('print-name-package');
 
 name('Enter Your Name');
 ```
-### hope you liked it
+### hope you would liked it.. thanks
