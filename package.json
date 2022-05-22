@@ -1,0 +1,29 @@
+{
+  "name": "print-name-package",
+  "version": "1.0.0",
+  "description": "This will print your name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tejas10503/java_meets_npm_1st.git"
+  },
+  "keywords": [
+    "npm",
+    "package",
+    "module",
+    "javascript",
+    "node",
+    "js",
+    "PrintName",
+    "Goodfirst"
+  ],
+  "author": "Tejas Advik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tejas10503/java_meets_npm_1st/issues"
+  },
+  "homepage": "https://github.com/tejas10503/java_meets_npm_1st#readme"
+}
